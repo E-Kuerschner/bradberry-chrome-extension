@@ -13,3 +13,5 @@ Plays an annoying sound clip every time the user clicks anywhere on any page.
 6. All tabs will need to be refreshed in order for the new extension to take effect.
 
 Hint: You may want to hide the extension's button in chrome's extension menu (top right of the window) if you think the unfortunate friend you are pranking will notice. You can do this by clicking the rectangular icon and selecting 'Hide in Chrome Menu'.
+
+To Remove: Return to chrome://extensions and disable the Bradberry Click extension or remove it from Chrome completely by clicking the trash bin icon.
